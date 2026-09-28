@@ -1,0 +1,15 @@
+{
+  "name": "TERRA",
+  "description": {
+    "it": "Indovina il paese del giorno in 8 tentativi: ogni paese che provi ti dice se continente, sbocco sul mare e senso di guida coincidono e se popolazione, superficie, ricchezza, età e confini sono più alti o più bassi. 193 paesi.",
+    "en": "Guess the country of the day in 8 tries: every country you try tells you whether continent, coastline and driving side match, and whether population, area, wealth, age and borders are higher or lower. 193 countries."
+  },
+  "accent": "#e2792b",
+  "languages": [
+    "it",
+    "en"
+  ],
+  "daily": true,
+  "preview": "preview.svg",
+  "order": 6
+}
